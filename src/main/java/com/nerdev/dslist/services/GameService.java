@@ -11,7 +11,7 @@ import com.nerdev.dslist.repositories.GameRepository;
 
 @Service
 public class GameService {
-
+	
 	@Autowired
 	private GameRepository gameRepository;
 	
