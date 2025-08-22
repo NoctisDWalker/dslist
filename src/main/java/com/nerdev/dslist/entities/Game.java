@@ -95,7 +95,7 @@ public class Game {
 		this.score = score;
 	}
 
-	public String getimgUrl() {
+	public String getImgUrl() {
 		return imgUrl;
 	}
 
